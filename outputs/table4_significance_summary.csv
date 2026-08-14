@@ -1,0 +1,5 @@
+Setting,Target,p-value,Significant,Cohen's d,Effect Size
+IID,Population,1.0000,❌ No,0.0780,Negligible
+IID,Life Expectancy,<0.0001,✅ Yes,0.1645,Negligible
+Non-IID,Population,1.0000,❌ No,0.1570,Negligible
+Non-IID,Life Expectancy,<0.0001,✅ Yes,0.5673,Medium

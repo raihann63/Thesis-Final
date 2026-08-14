@@ -1,0 +1,18 @@
+Property,Value
+Data Source,World Bank Open Data
+Geographic Coverage,189 Countries (Global)
+Temporal Span,2000–2024
+Total Records,"4,725"
+Base Features,18
+Engineered Features†,32
+Total Features,50
+Training Samples (n_train),"4,158 (88%)"
+Test Samples (n_test),567 (12%)
+Train Period,2000–2021
+Test Period,2022–2024
+Federated Clients (K),5
+Countries per Client (avg),~37
+Federated Rounds (T),5
+Local Epochs per Round,1
+Aggregation Strategy,Stacked Ensemble (FedStack)
+Target Variables,"Population (total), Life Expectancy (years)"

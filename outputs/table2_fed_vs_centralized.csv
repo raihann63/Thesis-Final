@@ -1,0 +1,9 @@
+Metric,"Centralized
+Population","FedStack
+Population","Centralized
+Life Exp.","FedStack
+Life Exp."
+R² Score,0.9935,0.9946 ↑,0.9596,0.9420 ⚠↓
+MAE,2.994M,5.912M,1.1476 yr,1.2688 yr
+RMSE,12.196M,11.106M ↓,1.5043 yr,1.8023 yr ⚠↑
+WMAPE/MAPE (%),7.08%,13.99% ⚠↑,1.67%,1.90% ⚠↑

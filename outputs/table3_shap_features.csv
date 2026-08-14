@@ -1,0 +1,11 @@
+Rank,Pop Feature,Pop SHAP,Life Feature,Life SHAP
+1,"Population, total_lag3",7068105.4168,"Life expectancy at birth, total (years)_lag1",1.0744
+2,"Population, total_roll5",6693026.4141,"Life expectancy at birth, total (years)_lag3",0.8877
+3,"Population, total_lag1",5280716.2328,"Life expectancy at birth, total (years)_lag2",0.7105
+4,CountryPopMean,5204330.5266,CountryLifeExpMean,0.5899
+5,"Population, total_roll3",5072947.1525,Death_Fertility,0.5854
+6,"Population, total_lag2",4449160.1122,"Mortality rate, infant (per 1,000 live births)_sq",0.5364
+7,CountryPopStd,2656387.0390,"Mortality rate, infant (per 1,000 live births)",0.4451
+8,Net migration,1747077.3165,"Birth rate, crude (per 1,000 people)_lag1",0.2706
+9,CountryNameEncoded,1468692.2943,"Birth rate, crude (per 1,000 people)_roll5",0.2557
+10,CountryCodeEncoded,1049399.5520,"Death rate, crude (per 1,000 people)",0.2253

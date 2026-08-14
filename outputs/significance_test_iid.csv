@@ -1,0 +1,3 @@
+Target,W statistic,p-value,Significant,Cohen's d,Effect Size
+Population,26761.0,1.0,No,0.0711,Negligible
+Life Expectancy,119922.0,0.0,Yes,0.1645,Negligible

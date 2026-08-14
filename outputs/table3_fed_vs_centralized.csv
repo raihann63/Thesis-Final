@@ -1,0 +1,5 @@
+Metric,Centralized — Pop,FedStack — Pop,Centralized — Life,FedStack — Life
+R² Score,0.9935,0.9959 (↑),0.9596,0.9642 (↑)
+MAE,2.9935M,6.6135M,1.1476,0.9881
+RMSE,12.1957M,9.6921M,1.5043,1.4165
+MAPE (%),328.6086%,1516.4745%,1.6722%,1.4823%
